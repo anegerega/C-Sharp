@@ -1,0 +1,11 @@
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.exe
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.deps.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.runtimeconfig.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.runtimeconfig.dev.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\bin\Debug\netcoreapp3.0\OddNumbers.pdb
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\obj\Debug\netcoreapp3.0\OddNumbers.csprojAssemblyReference.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\obj\Debug\netcoreapp3.0\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\obj\Debug\netcoreapp3.0\OddNumbers.AssemblyInfo.cs
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\obj\Debug\netcoreapp3.0\OddNumbers.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\OddNumbers\obj\Debug\netcoreapp3.0\OddNumbers.pdb
