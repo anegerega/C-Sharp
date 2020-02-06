@@ -1,0 +1,11 @@
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.exe
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.deps.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.runtimeconfig.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.runtimeconfig.dev.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\bin\Debug\netcoreapp3.0\ElementOccurence.pdb
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\obj\Debug\netcoreapp3.0\ElementOccurence.csprojAssemblyReference.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\obj\Debug\netcoreapp3.0\ElementOccurence.AssemblyInfoInputs.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\obj\Debug\netcoreapp3.0\ElementOccurence.AssemblyInfo.cs
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\obj\Debug\netcoreapp3.0\ElementOccurence.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\ElementOccurence\obj\Debug\netcoreapp3.0\ElementOccurence.pdb
