@@ -1,0 +1,11 @@
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.exe
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.deps.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.runtimeconfig.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.runtimeconfig.dev.json
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\bin\Debug\netcoreapp3.0\ListSum.pdb
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\obj\Debug\netcoreapp3.0\ListSum.csprojAssemblyReference.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\obj\Debug\netcoreapp3.0\ListSum.AssemblyInfoInputs.cache
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\obj\Debug\netcoreapp3.0\ListSum.AssemblyInfo.cs
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\obj\Debug\netcoreapp3.0\ListSum.dll
+C:\Users\Angela Egerega\Desktop\C-Sharp\ListSum\obj\Debug\netcoreapp3.0\ListSum.pdb
