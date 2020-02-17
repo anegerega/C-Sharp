@@ -7,30 +7,36 @@ namespace ElementOccurence
     {
         static void Main(string[] args)
         {
-            List<string> list1 = new List<string>()
-            {
-                "Angela",
-                "Nwazuosa",
-                "Egerega",
-                "Mary",
-                "Elizabeth"
+            AskAgain:
+            Console.WriteLine("Enter your list of items and separate each item with a comma (,): ");
+            string new_string = Console.ReadLine();
+            string[] YourList = new string[] {" "};
+            YourList = new_string.Split(',');
 
-            };
-            Console.Write("List...\n");
-            foreach (string list in list1)
+            Console.Write("Now tell us which item are you looking for: ");
+            string word = Console.ReadLine();
+            
+            foreach (string YourItem in YourList)
             {
-                Console.WriteLine(list);
+                Console.Write(YourItem + " ");
+                if (YourItem == word)
+                {
+                    Console.WriteLine("Found");
+                }
+                else
+                {
+                    Console.WriteLine("-");
+                }
             }
-
-            Console.WriteLine("Find this item in the list");
-            string userItem =  Console.ReadLine();
-            if (list1.Contains(userItem) == true)
+            Console.WriteLine("Do you want to search through another list? Enter Yes or No");
+            string decide = Console.ReadLine().ToUpper();
+            if(decide == "YES")
             {
-                Console.WriteLine("Item exists!");
+                goto AskAgain;
             }
             else
             {
-                Console.WriteLine("Item does not exist!");
+                Console.WriteLine("Thank You!");
             }
         }
     }
