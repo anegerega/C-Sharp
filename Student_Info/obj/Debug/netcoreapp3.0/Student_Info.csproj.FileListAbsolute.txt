@@ -1,0 +1,11 @@
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.exe
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.deps.json
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.runtimeconfig.json
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.runtimeconfig.dev.json
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.dll
+C:\Users\Angela Egerega\source\repos\Student_Info\bin\Debug\netcoreapp3.0\Student_Info.pdb
+C:\Users\Angela Egerega\source\repos\Student_Info\obj\Debug\netcoreapp3.0\Student_Info.AssemblyInfoInputs.cache
+C:\Users\Angela Egerega\source\repos\Student_Info\obj\Debug\netcoreapp3.0\Student_Info.AssemblyInfo.cs
+C:\Users\Angela Egerega\source\repos\Student_Info\obj\Debug\netcoreapp3.0\Student_Info.dll
+C:\Users\Angela Egerega\source\repos\Student_Info\obj\Debug\netcoreapp3.0\Student_Info.pdb
+C:\Users\Angela Egerega\source\repos\Student_Info\obj\Debug\netcoreapp3.0\Student_Info.csprojAssemblyReference.cache

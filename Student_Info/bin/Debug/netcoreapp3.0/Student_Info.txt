@@ -1,0 +1,5 @@
+Demilade|Oyawoye|1234|M|Environmental Management|Ilorin
+Angela|Egerega|5678|F|Computer Science|Lagos
+Peter|Akintaro|6789|M|Comoyter Science|Lagos
+Farida |Abdul|0099|F|Agric|Abuja
+Oseme|Odigie|0011|M|Elect|Benin
