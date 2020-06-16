@@ -29,7 +29,7 @@ namespace TestApi.Controllers
             smtp.UseDefaultCredentials = true;
             smtp.Port = 587;
             smtp.EnableSsl = true;
-            smtp.Credentials = new System.Net.NetworkCredential("anegerega@gmail.com", "password"); //put correct password here
+            smtp.Credentials = new System.Net.NetworkCredential("anegerega@gmail.com", Properties.Settings.Default.EmailPassword); //put correct password here
             smtp.Send(main_email);
             return new MailResponse
             {
