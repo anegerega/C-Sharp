@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Services\\Services.csproj": {}
+    "C:\\Users\\Thinkpad\\Desktop\\C-Sharp\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Services\\Services.csproj": {
+    "C:\\Users\\Thinkpad\\Desktop\\C-Sharp\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Thinkpad\\Desktop\\C-Sharp\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Angela Egerega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Thinkpad\\Desktop\\C-Sharp\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thinkpad\\Desktop\\C-Sharp\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Angela Egerega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,6 +77,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
